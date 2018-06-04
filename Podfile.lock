@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.7.2)
+  - HEREMaps (3.7.0)
+  - lottie-ios (2.5.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - HEREMaps
+  - lottie-ios
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - HEREMaps
+    - lottie-ios
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  HEREMaps: 3c29e1eed99634e9e437c2da81d1d2ea0a4a793e
+  lottie-ios: d699fdee68d7b63e721d949388b015fef1aaa4ac
+
+PODFILE CHECKSUM: e43f57836fe6233d8fc512ed1f37fb3c01fecd82
+
+COCOAPODS: 1.5.0

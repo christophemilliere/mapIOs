@@ -1,0 +1,13 @@
+//
+//  config.swift
+//  wherein
+//
+//  Created by christophe milliere on 10/05/2018.
+//  Copyright © 2018 christophe milliere. All rights reserved.
+//
+
+import UIKit
+
+let appId = "Kc1SOM6lknX4eCJLko2Z"
+let appCode = "leI7Cf7pfsaBkvw-zGoJOw"
+let licenseKey = "J+o1qpflAQ009Mx49hltroJuHXsv2nABnGaAEzowtxkfQdXmaVo14eCyk6n6uoGvtN/RN2gxZIN383MxR5r/lhvR5qVQ0mvEfWSpjodAJAznAt/u0oBhBAwjhIHuyhCtC3MzV00T5KXtJCt4UN3OncrVZtaHep5PxRBGyoncIJwo8B/Gll7W+8eTWOXa8R6Qsi7edxTXORZyymdujPWA8IjCLt7Q4M9D/NM9xdUpCLEX9kThTAmym2muxM3ySfmGFauWiD2CPjARc4vapm5bp6CmmKiIXwJxb7Jty+GYqRILhM6N9Ss5BLB6jxQAI0y1CaZccftJm5RBoAbY8YGvTdCa6hfXgVwipuQiw6DEIC8qwL47NO76QIjtaoBMicG1raAQyF8BgZTQ3VUCQ/s0CzM+HrkvJItnamml9FFxjeh/Jln+jxKqqQxLzPdv9b0MmIhCgkuOWhem/ZdtqBxNiZx4HwEa6MLDLxzt1DlCnuQEmbxueTUB2JEtzUyzsJHzYWtvzqacIqwEVakYx6Wkw5/th85nAz7KCM2Uw/Hn4UyMtzz40vexyz5essAQYKBOvO+myfYFhe6MGFPO8ulIH1zIDekTIz6NEPsINniob8Ng+500GQjmKKtfB7P0u39M+SasTF2lYbYhGjjURrt8U6hAhv0DqWIUG5vHBvO8Fkk="
